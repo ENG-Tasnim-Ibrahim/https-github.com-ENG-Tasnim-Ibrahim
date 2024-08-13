@@ -19,7 +19,9 @@
 
 <a href="https://linkedin.com/in/Tasnim Alboghdady" target="_blank"><img src="https://img.shields.io/badge/-Tasnim%20Alboghdady-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/@Tasnim_Ibrahim_Atya" target="_blank"><img src="https://img.shields.io/badge/-Tasnim%20Alboghdady-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
+![C](https://img.shields.io/badge/-C%20-05122A?style=flat&logo=C)&nbsp;
+![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ENG-Tasnim-Ibrahim&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
